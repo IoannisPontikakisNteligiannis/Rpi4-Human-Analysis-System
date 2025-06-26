@@ -42,7 +42,7 @@ class FPSVisualizer:
             timestamp = None
             frame_type = frame.get('frame_type', 'unknown')
             
-            # FIXED: Handle both old format (nested in 'angles') and new format
+            
             if 'fps' in frame:
                 fps_value = frame['fps']
             elif 'angles' in frame and 'fps' in frame['angles']:
@@ -57,7 +57,6 @@ class FPSVisualizer:
             
             # Only add if we have valid data
             if fps_value is not None and timestamp is not None:
-                # FIXED: Filter out unrealistic FPS values that could cause weird graphs
                 if 0.1 <= fps_value <= 200:  # Reasonable FPS range
                     self.fps_data.append(fps_value)
                     self.frame_times.append(timestamp)
