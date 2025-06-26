@@ -1,4 +1,4 @@
-# Rpi4-Human-Analysis-System
+# Rpi4-Human-Analysis-System [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 A  computer vision system designed for Raspberry Pi 4 that performs real-time human pose analysis with specialized focus on exercise detection and biomechanical monitoring. The system combines MediaPipe pose estimation with custom exercise detection algorithms to provide comprehensive movement analysis and performance tracking.
 
 * Real-time pose detection using MediaPipe
