@@ -44,10 +44,32 @@ self.movement_threshold = 5     # Minimum movement to register <br/>
 * Disable visual effects: Comment out drawing functions in main loop
 
   # Performance with 2 frame skipping on Rpi4 8gb
-  ![modelo0_askision_rpi4_new](https://github.com/user-attachments/assets/b013832b-cf74-4e6c-94d4-c8c49fc1ae3d)
+![image](https://github.com/user-attachments/assets/48b09dd6-b4be-47dc-a988-4132d042daa0)
+
 
   # Angle Performance on Neutral Pose![offset_gia_diplomatiki](https://github.com/user-attachments/assets/36fa0852-6d27-400a-9ba3-27b4869acc58)
   ![oudetero](https://github.com/user-attachments/assets/0991dd90-38c8-4b14-a349-23560f25a1cc)
+
+  
+  # Angle Performance on Squats
+  
+
+  ![squats](https://github.com/user-attachments/assets/b505a383-6fb5-4e05-b099-bf2276e9721d)
+
+
+  # Bicep Curls
+
+![github_bicep_right](https://github.com/user-attachments/assets/83a096cb-41be-456a-ad6e-e3112df076df)
+![github_bicep](https://github.com/user-attachments/assets/88492d63-c3ae-4e12-9feb-d65c009b3152)
+
+
+# Shoulder Abduction
+
+![left_Shoulder_github](https://github.com/user-attachments/assets/1b7eb6a8-5d95-4e13-a5b8-419111abf996)
+![shoulder_github](https://github.com/user-attachments/assets/83700440-38d6-43b4-a836-d0b6a8c9937f)
+
+
+
 
 
   
