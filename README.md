@@ -68,6 +68,8 @@ self.movement_threshold = 5     # Minimum movement to register <br/>
 ![left_Shoulder_github](https://github.com/user-attachments/assets/1b7eb6a8-5d95-4e13-a5b8-419111abf996)
 ![shoulder_github](https://github.com/user-attachments/assets/83700440-38d6-43b4-a836-d0b6a8c9937f)
 
+# New version of the system is available here :
+https://github.com/IoannisPontikakisNteligiannis/Human_pose_vol2
 
 
 
